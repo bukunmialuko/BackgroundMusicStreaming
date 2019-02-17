@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Background Music Streaming</string>
+    <string name="start_streaming">Start Background Streaming</string>
+    <string name="media_url_mp3">http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws</string>
+</resources>
